@@ -1,6 +1,6 @@
 import * as React from "react";
-import { Text, View, StyleSheet } from "react-native";
-import Logo from "../components/Logo";
+import {  View, StyleSheet } from "react-native";
+ import VideoList from "../sections/VideoList";
 
 const styles = StyleSheet.create({
   container: {
@@ -22,13 +22,16 @@ const styles = StyleSheet.create({
 });
 
 const Home = () => {
+
+
   return (
     <View style={styles.container}>
-      <Logo />
-      <Text style={styles.title}>MightyByte React Native Challenge.</Text>
+   {/*    <Logo /> */}
+  {/*     <Text style={styles.title}>MightyByte React Native Challenge.</Text>
       <Text style={styles.subTitle}>
         You are allowed to modify this project structure in any way you wish.
-      </Text>
+      </Text> */}
+      <VideoList />
     </View>
   );
 };

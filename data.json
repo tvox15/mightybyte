@@ -1,0 +1,352 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "TOqh0fuzSHwzSlts1jmVkV1tSDY",
+    "nextPageToken": "CAoQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 10
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "poyc1TfodIFOmHF2x5ksAm8GNms",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zOjov-2OZ0E"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-21T13:45:02Z",
+          "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+          "title": "Introduction to Programming and Computer Science - Full Course",
+          "description": "In this course, you will learn basics of computer programming and computer science. The concepts you learn apply to any and all ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zOjov-2OZ0E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zOjov-2OZ0E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zOjov-2OZ0E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "freeCodeCamp.org",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-21T13:45:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DYp_NnW2bsIi_xdhD2Ce83pa6i4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sHetKwDx2bI"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-05T12:59:42Z",
+          "channelId": "UC5t-sXEydbKfuO_wlRPBKhA",
+          "title": "How to Learn Programming as beginner?",
+          "description": "Programming ကို Beginner အနေနဲ့ ဘယ်လို စတင်လေ့လာမလဲ? ဒီနေ့ခေတ်မှာ Programming ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sHetKwDx2bI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sHetKwDx2bI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sHetKwDx2bI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Digital Genius",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-05T12:59:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "p0Txqg8c2JU4Kg_V7EmAn8TnYMg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CIRGjwYgdT4"
+        },
+        "snippet": {
+          "publishedAt": "2021-02-25T08:56:12Z",
+          "channelId": "UCRLEADhMcb8WUdnQ5_Alk7g",
+          "title": "Programming vs Coding - What&#39;s the difference?",
+          "description": "Programming vs coding -- my take on the difference. If you're serious about learning & earning money with coding Visit ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CIRGjwYgdT4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CIRGjwYgdT4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CIRGjwYgdT4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Aaron Jack",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-02-25T08:56:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ehHTQmti-drr-5YI4_R-M4cT4KM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-jRREn6ifEQ"
+        },
+        "snippet": {
+          "publishedAt": "2015-11-13T18:13:40Z",
+          "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+          "title": "The poetry of programming | Linda Liukas | TEDxCERN",
+          "description": "Linda Liukas believes that a movement in technology is already happening and that we need to engage everyone -- especially ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-jRREn6ifEQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-jRREn6ifEQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-jRREn6ifEQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TEDx Talks",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-11-13T18:13:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "begMkKvub7mV-LJbFig40psKDo0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bJzb-RuUcMU"
+        },
+        "snippet": {
+          "publishedAt": "2018-11-04T01:12:12Z",
+          "channelId": "UCfuSelBtnyCACv0KjG2P1-A",
+          "title": "How To Learn Programming for BEGINNERS! (2019/2020)",
+          "description": "This simple tutorial will teach you how you can learn computer programming and teach yourself code. Learning code is not that ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bJzb-RuUcMU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bJzb-RuUcMU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bJzb-RuUcMU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CroatCode",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-11-04T01:12:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9PXlcImU_0sOvMGuEFB81GVO1qA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "k9WqpQp8VSU"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-15T22:45:01Z",
+          "channelId": "UCLpovxJVLBZrXJGCymB6LYw",
+          "title": "How I Would Learn To Code (If I Could Start Over)",
+          "description": "If I could go back in time and learn to code, I would do a lot of things differently. If I could start over, I'd spend more time doing ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/k9WqpQp8VSU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/k9WqpQp8VSU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/k9WqpQp8VSU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Namanh Kapur",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-15T22:45:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OYhaNiOkSBSO9GF5bZQ1kfHhxN4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_uQrJ0TkZlc"
+        },
+        "snippet": {
+          "publishedAt": "2019-02-18T15:00:08Z",
+          "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+          "title": "Python Tutorial - Python Full Course for Beginners",
+          "description": "Python tutorial - Python full course for beginners - Go from Zero to Hero with Python (includes machine learning & web ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Programming with Mosh",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-02-18T15:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RuHMLCLifPyYJWf1CVieBPqCbF4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pEfrdAtAmqk"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-24T17:05:46Z",
+          "channelId": "UCsBjURrPoezykLs9EqgamOA",
+          "title": "God-Tier Developer Roadmap",
+          "description": "The programming iceberg is complete roadmap to the loved, hated, historical, and weird programming languages that you should ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pEfrdAtAmqk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pEfrdAtAmqk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pEfrdAtAmqk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Fireship",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-24T17:05:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VNOfrqBhyR5cOIpLwk6ls9-Touk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "M5QY2_8704o"
+        },
+        "snippet": {
+          "publishedAt": "2019-12-22T17:16:51Z",
+          "channelId": "UCwVQIkAtyZzQSA-OY1rsGig",
+          "title": "Chillstep Music for Programming / Cyber / Coding",
+          "description": "Could music boost your coding performance? Monotonous keyboard clicks can make you lose your train of thought. Our minds ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/M5QY2_8704o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/M5QY2_8704o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/M5QY2_8704o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chill Music Lab",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-12-22T17:16:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uSlUNmuB3_5-yYTxDakdLAX_j7s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kqtD5dpn9C8"
+        },
+        "snippet": {
+          "publishedAt": "2020-09-16T13:00:20Z",
+          "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+          "title": "Python for Beginners - Learn Python in 1 Hour",
+          "description": "This Python tutorial for beginners show how to get started with Python quickly. Learn to code in 1 hour! Watch this tutorial get ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kqtD5dpn9C8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kqtD5dpn9C8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kqtD5dpn9C8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Programming with Mosh",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-09-16T13:00:20Z"
+        }
+      }
+    ]
+  }
