@@ -32,6 +32,7 @@ const styles = StyleSheet.create({
     card_wrapper: {
         alignItems: "center",
         marginBottom: "20px",
+ 
      },
     activity_indicator: {
         flex: 1,
@@ -101,8 +102,6 @@ const VideoList = () => {
     }
 
 
-
-
     const call_youtube_api = async () => {
         setIsLoading(true);
 
@@ -112,10 +111,8 @@ const VideoList = () => {
         // get comma separated string of channel names to use in api call to get channel profile pics
         let new_channel_id_list: string = search_result.items.map((item: any) => item.snippet.channelId).join(',');
         let video_id_list: string = search_result.items.map((item: any) => item.id.videoId).join(',');
-        console.log('video ids', video_id_list)
         // call channel API
         let profile_picture_list = await call_channel_api(new_channel_id_list);
-        console.log(new_channel_id_list, profile_picture_list)
 
         let view_count_list = await call_view_count_api(video_id_list);
 
@@ -124,10 +121,6 @@ const VideoList = () => {
         setVideoList([...videoList, ...newVideos]);
         setIsLoading(false);
         setLoadMoreTriggered(false);
-    }
-
-    const load_more_handler = () => {
-        setLoadMoreTriggered(true);
     }
 
     //@ts-ignore
@@ -171,7 +164,6 @@ const VideoList = () => {
                     })}
                 </View>
                 {isLoading && <View style={styles.activity_indicator}> <ActivityIndicator size="large" /></View>}
-                {/* <Button onPress={() => load_more_handler()} title="Load More" /> */}
             </ScrollView>
         </SafeAreaView >
     );

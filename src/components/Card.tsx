@@ -54,8 +54,8 @@ const styles = StyleSheet.create({
     },
 
     card_text: {
-        padding: 5
-        // width: "100%",
+        padding: 5,
+        marginBottom: 10
 
     },
     channel_title: {
@@ -117,7 +117,8 @@ const Card = ({ item }: IProps) => {
         alignItems: "center",
         justifyContent: 'space-between',
         height: "auto",
-        marginBottom: 0,
+               minHeight: "300px",
+        marginBottom: 5,
         marginRight: 15,
          width: "98%",
         padding: 3,
